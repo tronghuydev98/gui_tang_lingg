@@ -14,9 +14,7 @@
                 <div class="letter">
                     <div class="text">
                         <p>Anh không biết đây có phải là lúc thích hợp không…
-Nhưng anh biết nếu không nói, anh sẽ tiếc.
-Anh thích em – theo cách mà chỉ cần em gật đầu, anh sẽ chăm sóc em thật lòng. </p></br>
-                        Em đồng ý cho anh được làm người đồng hành chính thức của em nha !
+Nhưng anh biết nếu không nói, anh sẽ tiếc. Anh thích em – theo cách mà chỉ cần em gật đầu, anh sẽ chăm sóc em thật lòng. Em đồng ý cho anh được làm người đồng hành chính thức của em nhé !</p>
                     </div>
                 </div>
             </div>
