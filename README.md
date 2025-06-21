@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Người anh thương</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
@@ -14,11 +14,10 @@
             <div class="envelope">
                 <div class="letter">
                     <div class="text">
-                        <strong>Lingg cute </strong>
-                        <p>Gửi tới Lingg và những người phụ nữ bạn yêu quý ngày 8/3 vui vẻ. Chúc bạn
-                            Lingg nhà mình mãi xinh đẹp, trẻ trung hồn nhiên, thành công trong cuộc sống và thật
-                            nhiều hạnh phúc nhé (Falling Into
-                            Your Smile) ^^!
+                        <strong>Người đẹp nhất trần gian </strong>
+                        <p>Anh không biết đây có phải là lúc thích hợp không…
+Nhưng anh biết nếu không nói, anh sẽ tiếc.Anh thích cách em cười, cách em quan tâm mọi thứ – và cả cách em khiến ngày của anh trở nên khác đi.
+Nếu em cho phép… anh muốn là người ở bên em, mỗi ngày sau này.
                         </p>
                     </div>
                 </div>
