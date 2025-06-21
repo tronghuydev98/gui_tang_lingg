@@ -18,6 +18,7 @@
 Nhưng anh biết nếu không nói, anh sẽ tiếc.Anh thích cách em cười, cách em quan tâm mọi thứ – và cả cách em khiến ngày của anh trở nên khác đi.
 Nếu em cho phép… anh muốn là người ở bên em, mỗi ngày sau này.
                         </p>
+                        <p>Em đồng ý cho anh được làm người đồng hành chính thức của em nha !</p>
                     </div>
                 </div>
             </div>
