@@ -74,7 +74,7 @@ body {
 }
 
 .envelope>.letter>.text {
-    font-family: cursive;
+    font-family: Helvetica;
     color: var(--txt-color);
     text-align: left;
     font-size: 9.2px;
