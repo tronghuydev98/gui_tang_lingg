@@ -8,8 +8,7 @@
 </head>
 
 <body>
-    <div class="container"><button><a href="https://tronghuydev98.github.io/Linggcute_8_3/">Cười đi rồi cho đi tiếp
-                :)))</a></button>
+    <div class="container">
         <div class="envelope-wrapper flap">
             <div class="envelope">
                 <div class="letter">
