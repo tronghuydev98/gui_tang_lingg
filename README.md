@@ -13,7 +13,6 @@
             <div class="envelope">
                 <div class="letter">
                     <div class="text">
-                        <strong>Người đẹp nhất trần gian </strong>
                         <p>Anh không biết đây có phải là lúc thích hợp không…
 Nhưng anh biết nếu không nói, anh sẽ tiếc.
 Anh thích em – theo cách mà chỉ cần em gật đầu, anh sẽ chăm sóc em thật lòng
